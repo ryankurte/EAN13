@@ -3,6 +3,7 @@
  * EAN13 Barcode Generator
  * Creates a boolean array corresponding to the EAN13 barcode for a string of
  * 12 numeric only characters.
+ * Based on: https://github.com/astrokin/EAN13BarcodeGenerator
  *
  * The MIT License (MIT)
  *
